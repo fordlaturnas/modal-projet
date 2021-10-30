@@ -1,4 +1,4 @@
-# modal-project1..
+# modal-project1.
 
 ## Project setup
 ```
